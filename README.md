@@ -1,4 +1,4 @@
- #Public app(frontend logic+fetch). 
+ 
 
 async function fetchJSON(url) {
   const res = await fetch(url);
